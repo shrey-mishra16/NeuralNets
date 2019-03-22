@@ -1,1 +1,3 @@
-# NeuralNets - The Link for The dataset  - -  https://www.kaggle.com/zalando-research/fashionmnist
+# NeuralNets - 
+
+The Link for The Fashion MNIST dataset  - -  https://www.kaggle.com/zalando-research/fashionmnist
